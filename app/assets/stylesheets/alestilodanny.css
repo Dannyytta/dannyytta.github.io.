@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    .navbar-brand i {
+      margin-right: 0.5rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .navbar-brand i {
+      margin-right: 0.25rem;
+    }
+  }
+  
